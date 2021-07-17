@@ -6,10 +6,10 @@
 
 |     Target     |   Status  |
 |----------------|-----------|
-| Test(EditMode) |[![Test project - EditMode](https://github.com/Snowapril/VRoomEditor/actions/workflows/test-editmode.yml/badge.svg?branch=main)](https://github.com/Snowapril/VRoom/actions/workflows/test-editmode.yml)|
-| Test(PlayMode) |[![Test project - PlayMode](https://github.com/Snowapril/VRoomEditor/actions/workflows/test-playmode.yml/badge.svg?branch=main)](https://github.com/Snowapril/VRoom/actions/workflows/test-playmode.yml)|
-| Build(Android) |[![Build project - Android](https://github.com/Snowapril/VRoomEditor/actions/workflows/build-android.yml/badge.svg?branch=main)](https://github.com/Snowapril/VRoom/actions/workflows/build-android.yml)|
-| Build(WebGL)   |[![Build project - WebGL](https://github.com/Snowapril/VRoomEditor/actions/workflows/build-webgl.yml/badge.svg?branch=main)](https://github.com/Snowapril/VRoom/actions/workflows/build-webgl.yml)|
+| Test(EditMode) |[![Test project - EditMode](https://github.com/Snowapril/VRoomEditor/actions/workflows/test-editmode.yml/badge.svg?branch=main)](https://github.com/Snowapril/VRoomEditor/actions/workflows/test-editmode.yml)|
+| Test(PlayMode) |[![Test project - PlayMode](https://github.com/Snowapril/VRoomEditor/actions/workflows/test-playmode.yml/badge.svg?branch=main)](https://github.com/Snowapril/VRoomEditor/actions/workflows/test-playmode.yml)|
+| Build(Android) |[![Build project - Android](https://github.com/Snowapril/VRoomEditor/actions/workflows/build-android.yml/badge.svg?branch=main)](https://github.com/Snowapril/VRoomEditor/actions/workflows/build-android.yml)|
+| Build(WebGL)   |[![Build project - WebGL](https://github.com/Snowapril/VRoomEditor/actions/workflows/build-webgl.yml/badge.svg?branch=main)](https://github.com/Snowapril/VRoomEditor/actions/workflows/build-webgl.yml)|
 
 This is map editor build for [VRoom repository](https://github.com/snowapril/VRoom)
 VRoom is virtual conference platform for VR and Desktop. 
