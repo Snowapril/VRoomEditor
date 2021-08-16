@@ -1,6 +1,5 @@
-<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements">
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" editor-extension-mode="True">
     <ui:VisualElement name="screen" class="screen" style="flex-grow: 1; -unity-slice-left: 97; -unity-slice-top: 90; -unity-slice-right: 69; -unity-slice-bottom: 50; flex-direction: row;">
-        <Style path="UI Builder/OptionsPanel/options_panel" />
         <ui:VisualElement name="left" class="container" style="flex-grow: 1; padding-left: 30px; padding-right: 10px;">
             <ui:Label text="Label" style="padding-bottom: 9px; font-size: 22px;" />
             <ui:VisualElement name="image" class="image" style="height: 110px; width: 123px;" />
