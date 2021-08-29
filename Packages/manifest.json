@@ -16,6 +16,7 @@
     "com.unity.ugui": "1.0.0",
     "com.unity.ui": "1.0.0-preview.16",
     "com.unity.ui.builder": "1.0.0-preview.16",
+    "org.khronos.unitygltf": "https://github.com/prefrontalcortex/UnityGLTF.git?path=/UnityGLTF/Assets/UnityGLTF#dev",
     "com.unity.modules.ai": "1.0.0",
     "com.unity.modules.androidjni": "1.0.0",
     "com.unity.modules.animation": "1.0.0",
