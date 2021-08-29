@@ -1,0 +1,18 @@
+{
+    "name": "SampleEditor",
+    "rootNamespace": "",
+    "references": [
+        "GUID:1a0324566af4ed544918d6837a1f4e11",
+        "GUID:18d18f811ba286c49814567a3cfba688",
+        "GUID:c68a4bae0027a0f488014bd4c2728d60"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
