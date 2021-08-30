@@ -235,6 +235,15 @@
       },
       "url": "https://packages.unity.com"
     },
+    "org.khronos.unitygltf": {
+      "version": "https://github.com/prefrontalcortex/UnityGLTF.git?path=/UnityGLTF/Assets/UnityGLTF#dev",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {
+        "com.unity.nuget.newtonsoft-json": "2.0.0"
+      },
+      "hash": "c1bc90f9c9d107c59c77dcfcdff09304adff225c"
+    },
     "com.unity.modules.ai": {
       "version": "1.0.0",
       "depth": 0,
