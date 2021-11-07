@@ -1,7 +1,20 @@
 var searchData=
 [
-  ['defaultfilepath',['DefaultFilePath',['../class_unity_g_l_t_f_1_1_sample_model.html#a8e42e0dc8b1ffd98429b97a17a5f6cb0',1,'UnityGLTF::SampleModel']]],
-  ['distance',['distance',['../class_unity_g_l_t_f_1_1_examples_1_1_orbit_camera_controller.html#a94667e7bed01777e58ca1153f1e90c9b',1,'UnityGLTF::Examples::OrbitCameraController']]],
-  ['distancemax',['distanceMax',['../class_unity_g_l_t_f_1_1_examples_1_1_orbit_camera_controller.html#af9dd0caea424273c2ad4e241c61ad8d4',1,'UnityGLTF::Examples::OrbitCameraController']]],
-  ['distancemin',['distanceMin',['../class_unity_g_l_t_f_1_1_examples_1_1_orbit_camera_controller.html#adaafe23812f590c09e3054e64281b6ab',1,'UnityGLTF::Examples::OrbitCameraController']]]
+  ['absfltnumsteps',['AbsFltNumSteps',['../struct_r_t_g_1_1_num_snap_steps.html#a2cc2f947f5ab8e739abb3aa42029e94d',1,'RTG::NumSnapSteps']]],
+  ['absfracsteps',['AbsFracSteps',['../struct_r_t_g_1_1_num_snap_steps.html#a6c986d92aef32abf958a3a20ecf11eaa',1,'RTG::NumSnapSteps']]],
+  ['absintnumsteps',['AbsIntNumSteps',['../struct_r_t_g_1_1_num_snap_steps.html#a89c2a1b323327d291ec466e5c4344104',1,'RTG::NumSnapSteps']]],
+  ['alignaxis',['AlignAxis',['../struct_r_t_g_1_1_object_surface_snap_1_1_snap_config.html#a5cfc98b0716cc62e73ff49261477b670',1,'RTG::ObjectSurfaceSnap::SnapConfig']]],
+  ['alignmentaxis',['AlignmentAxis',['../struct_r_t_g_1_1_object_surface_snap_1_1_snap_config.html#acc7f0ea9742cfa23b6a1412c6d0a3b48',1,'RTG::ObjectSurfaceSnap::SnapConfig']]],
+  ['area',['Area',['../struct_r_t_g_1_1_box_face_area_desc.html#a6162719563e7dd8c829f72af4a5484ee',1,'RTG::BoxFaceAreaDesc']]],
+  ['areatype',['AreaType',['../struct_r_t_g_1_1_box_face_area_desc.html#a53fad3c4be5deeb6bcdd3189cde098ee',1,'RTG::BoxFaceAreaDesc']]],
+  ['arrow',['Arrow',['../class_r_t_g_1_1_gizmo_cap2_d_controller_data.html#a22ae131dff95e224bd5aab6f08aebd1a',1,'RTG::GizmoCap2DControllerData']]],
+  ['arrowindex',['ArrowIndex',['../class_r_t_g_1_1_gizmo_cap2_d_controller_data.html#a760a664fddf61985813affcaaef75057',1,'RTG::GizmoCap2DControllerData']]],
+  ['asset0path',['asset0Path',['../class_unity_g_l_t_f_1_1_root_merge_component.html#a6652c858bd1a4d8c6717742de7331161',1,'UnityGLTF::RootMergeComponent']]],
+  ['asset1path',['asset1Path',['../class_unity_g_l_t_f_1_1_root_merge_component.html#a82d22d52dd923b4478515b0938b8a8b2',1,'UnityGLTF::RootMergeComponent']]],
+  ['axis',['Axis',['../struct_r_t_g_1_1_gizmo_sgl_axis_offset_drag3_d_1_1_work_data.html#affe69fc030bd33635bce73d2732e601d',1,'RTG.GizmoSglAxisOffsetDrag3D.WorkData.Axis()'],['../struct_r_t_g_1_1_gizmo_sgl_axis_rotation_drag3_d_1_1_work_data.html#aee99a66aa567354529fe39d4997a6174',1,'RTG.GizmoSglAxisRotationDrag3D.WorkData.Axis()'],['../struct_r_t_g_1_1_gizmo_sgl_axis_scale_drag3_d_1_1_work_data.html#ad9687b3045af2b7a4ece555da9ece3d2',1,'RTG.GizmoSglAxisScaleDrag3D.WorkData.Axis()']]],
+  ['axis0',['Axis0',['../struct_r_t_g_1_1_gizmo_dbl_axis_offset_drag3_d_1_1_work_data.html#aa7423429af18e6a3585e956fb366c6e3',1,'RTG.GizmoDblAxisOffsetDrag3D.WorkData.Axis0()'],['../struct_r_t_g_1_1_gizmo_dbl_axis_rotation_drag3_d_1_1_work_data.html#a9afaad8aa2950157ec613d57ec27a5df',1,'RTG.GizmoDblAxisRotationDrag3D.WorkData.Axis0()'],['../struct_r_t_g_1_1_gizmo_dbl_axis_scale_drag3_d_1_1_work_data.html#a5e0862eedf941cd3ea1e8bbb3428c9d4',1,'RTG.GizmoDblAxisScaleDrag3D.WorkData.Axis0()']]],
+  ['axis1',['Axis1',['../struct_r_t_g_1_1_gizmo_dbl_axis_offset_drag3_d_1_1_work_data.html#a89aa7d6dc90afceeea65a0b249cfe47f',1,'RTG.GizmoDblAxisOffsetDrag3D.WorkData.Axis1()'],['../struct_r_t_g_1_1_gizmo_dbl_axis_rotation_drag3_d_1_1_work_data.html#a1823f810f876e3f9193864ec993a9d50',1,'RTG.GizmoDblAxisRotationDrag3D.WorkData.Axis1()'],['../struct_r_t_g_1_1_gizmo_dbl_axis_scale_drag3_d_1_1_work_data.html#aa4420afeef858af17d432d97cdab3379',1,'RTG.GizmoDblAxisScaleDrag3D.WorkData.Axis1()']]],
+  ['axisindex',['AxisIndex',['../struct_r_t_g_1_1_gizmo_sgl_axis_scale_drag3_d_1_1_work_data.html#a26cc90570a61fc997f6337b38dbdd604',1,'RTG::GizmoSglAxisScaleDrag3D::WorkData']]],
+  ['axisindex0',['AxisIndex0',['../struct_r_t_g_1_1_gizmo_dbl_axis_scale_drag3_d_1_1_work_data.html#ab0d13b1a23edf515f209e277aec37c2c',1,'RTG::GizmoDblAxisScaleDrag3D::WorkData']]],
+  ['axisindex1',['AxisIndex1',['../struct_r_t_g_1_1_gizmo_dbl_axis_scale_drag3_d_1_1_work_data.html#abdf20271902bc8086aa3f5519b6411b0',1,'RTG::GizmoDblAxisScaleDrag3D::WorkData']]]
 ];

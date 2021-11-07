@@ -1,6 +1,5 @@
 var searchData=
 [
-  ['ymaxlimit',['yMaxLimit',['../class_unity_g_l_t_f_1_1_examples_1_1_orbit_camera_controller.html#a0a41231398949b4452b30a83d27881cf',1,'UnityGLTF::Examples::OrbitCameraController']]],
-  ['yminlimit',['yMinLimit',['../class_unity_g_l_t_f_1_1_examples_1_1_orbit_camera_controller.html#a18e2a14afe8b423ca2b51f0442d81e8f',1,'UnityGLTF::Examples::OrbitCameraController']]],
-  ['yspeed',['ySpeed',['../class_unity_g_l_t_f_1_1_examples_1_1_orbit_camera_controller.html#a73d9b7f65fa7b2c750bb315676cdcd08',1,'UnityGLTF::Examples::OrbitCameraController']]]
+  ['objecttypes',['ObjectTypes',['../struct_r_t_g_1_1_object_bounds_1_1_query_config.html#a1604c5b859942a97bc961aac8728dd9c',1,'RTG::ObjectBounds::QueryConfig']]],
+  ['offsetfromsurface',['OffsetFromSurface',['../struct_r_t_g_1_1_object_surface_snap_1_1_snap_config.html#a4a09a62c011bb537498f4e2a8fee5a5b',1,'RTG::ObjectSurfaceSnap::SnapConfig']]]
 ];
