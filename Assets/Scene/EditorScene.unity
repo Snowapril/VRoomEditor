@@ -123,49 +123,6 @@ NavMeshSettings:
     debug:
       m_Flags: 0
   m_NavMeshData: {fileID: 0}
---- !u!1 &65989706
-GameObject:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  serializedVersion: 6
-  m_Component:
-  - component: {fileID: 65989708}
-  - component: {fileID: 65989707}
-  m_Layer: 0
-  m_Name: GizmoAdder
-  m_TagString: Untagged
-  m_Icon: {fileID: 0}
-  m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
-  m_IsActive: 1
---- !u!114 &65989707
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 65989706}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: e346423b7b7eed846a41890aac79eb4e, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
---- !u!4 &65989708
-Transform:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 65989706}
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 6.0136757, y: 6.931092, z: 0.52737856}
-  m_LocalScale: {x: 1, y: 1, z: 1}
-  m_Children: []
-  m_Father: {fileID: 0}
-  m_RootOrder: 5
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &219410466
 GameObject:
   m_ObjectHideFlags: 0
@@ -524,6 +481,7 @@ GameObject:
   - component: {fileID: 345805475}
   - component: {fileID: 345805474}
   - component: {fileID: 345805477}
+  - component: {fileID: 345805478}
   m_Layer: 5
   m_Name: UIDocument
   m_TagString: Untagged
@@ -599,6 +557,19 @@ MonoBehaviour:
   - {fileID: 6364517664465083788, guid: dfa632b4107821849845338eeb4ac3e4, type: 3}
   - {fileID: 8743559097472180862, guid: 31261faa781e2b0478af5002b092c91e, type: 3}
   - {fileID: 5743810297625793807, guid: 15bc2a219b8f1654f987b3e55164b53a, type: 3}
+--- !u!114 &345805478
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 345805473}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ebd7d6f362ed25f45ac9e8eed62ce60c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  IconSprites: []
 --- !u!1 &502731230
 GameObject:
   m_ObjectHideFlags: 0
