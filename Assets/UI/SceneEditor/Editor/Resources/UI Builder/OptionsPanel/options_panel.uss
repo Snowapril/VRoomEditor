@@ -17,3 +17,25 @@
 .screen {
     background-image: resource('UI Builder/OptionsPanel/options_panel_background');
 }
+
+.slotContainer {
+    width: 128px;
+    height: 128px;
+    margin: 5px;
+    border-left-color: rgb(48, 48, 48);
+    border-right-color: rgb(48, 48, 48);
+    border-top-color: rgb(48, 48, 48);
+    border-bottom-color: rgb(48, 48, 48);
+    background-color: rgb(9, 19, 21);
+    border-top-left-radius: 3px;
+    background-image: url('/Assets/WUG/Sprites/ItemSlotBackground.png');
+    border-bottom-left-radius: 3px;
+    border-top-right-radius: 3px;
+    border-bottom-right-radius: 3px;
+}
+
+.slotIcon {
+    padding: 15px;
+    flex-shrink: 0;
+    flex-grow: 1;
+}

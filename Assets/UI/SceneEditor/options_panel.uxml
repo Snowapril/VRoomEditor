@@ -7,7 +7,9 @@
             <ui:VisualElement style="width: 100%; height: 30%; min-width: 60%; min-height: initial; max-height: initial; max-width: initial; background-color: rgb(56, 56, 56);">
                 <ui:VisualElement style="align-items: flex-start; width: 100%; height: 100%; min-width: 60%; min-height: initial; max-width: initial; max-height: initial; margin-left: 0; margin-right: 0; margin-top: 0; margin-bottom: 0; padding-left: 0; padding-right: 0; padding-top: 0; padding-bottom: 0; flex-direction: row; border-left-width: 1px; border-right-width: 1px; border-top-width: 1px; border-bottom-width: 1px; background-color: rgb(56, 56, 56);">
                     <ui:ListView focusable="true" name="directory" style="height: 100%; width: 20%; max-width: 40%; min-width: initial; max-height: initial; min-height: initial; border-left-color: rgb(0, 0, 0); border-right-color: rgb(0, 0, 0); border-top-color: rgb(0, 0, 0); border-bottom-color: rgb(0, 0, 0); border-left-width: 1px; border-right-width: 1px; border-top-width: 1px; border-bottom-width: 1px;" />
-                    <ui:ScrollView name="prefabs" style="width: 80%; height: 100%; border-left-color: rgb(0, 0, 0); border-right-color: rgb(0, 0, 0); border-top-color: rgb(0, 0, 0); border-bottom-color: rgb(0, 0, 0); border-left-width: 1px; border-right-width: 1px; border-top-width: 1px; border-bottom-width: 1px;" />
+                    <ui:ScrollView name="prefabs" style="width: 80%; height: 100%; border-left-color: rgb(0, 0, 0); border-right-color: rgb(0, 0, 0); border-top-color: rgb(0, 0, 0); border-bottom-color: rgb(0, 0, 0); border-left-width: 1px; border-right-width: 1px; border-top-width: 1px; border-bottom-width: 1px; flex-grow: 1; flex-shrink: initial; align-items: stretch; flex-direction: row; justify-content: center;">
+                        <PrefabSlot style="height: 79px; width: 87px;" />
+                    </ui:ScrollView>
                 </ui:VisualElement>
             </ui:VisualElement>
         </ui:VisualElement>
