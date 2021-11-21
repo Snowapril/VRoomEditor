@@ -5,12 +5,12 @@ using System.Text;
 using System.Threading.Tasks;
 using UnityEngine;
 using UnityEngine.UIElements;
+using System.IO;
 using RTG;
 
 public class UIHandler : MonoBehaviour
 {
     // Start is called before the first frame
-    public UIDocument uiDocument;
     public List<GameObject> gltfPrefabs;
     public List<GameObject> primitivePrefabs;
     private VisualElement prefabs;
@@ -25,8 +25,6 @@ public class UIHandler : MonoBehaviour
 
     private void Awake()
     {
-        //Store the root from the UI Document component
-        m_Root = uiDocument.rootVisualElement;
         //Search the root for the SlotContainer Visual Element
         m_SlotContainer = m_Root.Q<VisualElement>("prefabs");
         //Create PrefabSlots and add them as children to the SlotContainer
@@ -36,18 +34,17 @@ public class UIHandler : MonoBehaviour
             InventoryItems.Add(item);
             m_SlotContainer.Add(item);
         }
-
+    
         SceneController.OnInventoryChanged += SceneController_OnInventoryChanged;
         // m_GhostIcon.RegisterCallback<PointerMoveEvent>(OnPointerMove);
         // m_GhostIcon.RegisterCallback<PointerUpEvent>(OnPointerUp);
     }
-
+    
     void Start()
     {
-        var root = uiDocument.rootVisualElement;
         // prefabs = root.Q<VisualElement>("prefabs");
     }
-
+    
     // Update is called once per frame
     void Update()
     {
@@ -62,10 +59,18 @@ public class UIHandler : MonoBehaviour
                 universalGizmo.SetTargetObject(newGameObject);
             }
         }
+    
+        if (Input.GetKeyDown(KeyCode.Return))
+        {
+            // var exporter = new GLTFSceneExporter(new[] { transform }, new ExportOptions());
+            var appPath = Application.dataPath;
+            var wwwPath = appPath.Substring(0, appPath.LastIndexOf("Assets")) + "www";
+            // exporter.SaveGLTFandBin(Path.Combine(wwwPath, "TestScene"), "TestScene");
+        }
     }
 
     public static void StartDrag(Vector2 position, PrefabSlot originalSlot)
-    {
+    {   
         //Set tracking variables
         m_IsDragging = true;
         m_OriginalSlot = originalSlot;
