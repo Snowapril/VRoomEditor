@@ -1,8 +1,9 @@
 var searchData=
 [
-  ['icon',['icon',['../class_prefab_slot.html#aea1944bd407fc91b3c47173c7ca382db',1,'PrefabSlot.icon()'],['../class_prefab_details.html#adbfeee6a047ceb55ff5bcfb9a423db6e',1,'PrefabDetails.Icon()']]],
-  ['iconsprites',['IconSprites',['../class_scene_controller.html#a80ce93ce7db5dac0a8cadc96e7866fec',1,'SceneController']]],
-  ['ignoredestobjects',['IgnoreDestObjects',['../struct_r_t_g_1_1_object2_object_snap_1_1_config.html#a076119934512150dc246d6e5f2a80856',1,'RTG::Object2ObjectSnap::Config']]],
-  ['intnumsteps',['IntNumSteps',['../struct_r_t_g_1_1_num_snap_steps.html#a08546aca2f021d145e83492472bee7ce',1,'RTG::NumSnapSteps']]],
-  ['inventoryitems',['InventoryItems',['../class_u_i_handler.html#accaef02bc64e2479d232f39cd047c4db',1,'UIHandler']]]
+  ['handlewidth',['handleWidth',['../struct_unity_editor_1_1_post_processing_1_1_curve_editor_1_1_curve_state.html#aa6ad60ca2b5f41ebea15dd2d3ae04ea5',1,'UnityEditor::PostProcessing::CurveEditor::CurveState']]],
+  ['highpercent',['highPercent',['../struct_unity_engine_1_1_post_processing_1_1_eye_adaptation_model_1_1_settings.html#a8d8a8ead5347bf7fc71694e16e07426f',1,'UnityEngine::PostProcessing::EyeAdaptationModel::Settings']]],
+  ['highprecision',['highPrecision',['../struct_unity_engine_1_1_post_processing_1_1_ambient_occlusion_model_1_1_settings.html#a821b7fd2620df542d2d1e83536a480dc',1,'UnityEngine::PostProcessing::AmbientOcclusionModel::Settings']]],
+  ['hueshift',['hueShift',['../struct_unity_engine_1_1_post_processing_1_1_color_grading_model_1_1_basic_settings.html#a54c3256a16904c25bd61eb6644221305',1,'UnityEngine::PostProcessing::ColorGradingModel::BasicSettings']]],
+  ['huevshue',['hueVShue',['../struct_unity_engine_1_1_post_processing_1_1_color_grading_model_1_1_curves_settings.html#ab1c659430788a2bd5e5ee1e1dcf696a8',1,'UnityEngine::PostProcessing::ColorGradingModel::CurvesSettings']]],
+  ['huevssat',['hueVSsat',['../struct_unity_engine_1_1_post_processing_1_1_color_grading_model_1_1_curves_settings.html#a9e5a01e97c6b387d71a1bf75aeaef88e',1,'UnityEngine::PostProcessing::ColorGradingModel::CurvesSettings']]]
 ];

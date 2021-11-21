@@ -2,6 +2,7 @@ var searchData=
 [
   ['camera',['Camera',['../namespace_r_t_g.html#acdb29ca36ec3e9c475d8c4700ef30fd4a967d35e40f3f95b1f538bd248640bf3b',1,'RTG']]],
   ['circle',['Circle',['../class_r_t_g_1_1_gizmo_circular_material.html#a10cc2d7c5150bc7d99146a6b272219cfa30954d90085f6eaaf5817917fc5fecb3',1,'RTG.GizmoCircularMaterial.Circle()'],['../namespace_r_t_g.html#a3f126635a26258e1fc0c21ef2b40e999a30954d90085f6eaaf5817917fc5fecb3',1,'RTG.Circle()'],['../namespace_r_t_g.html#a55c666031bac7bb0339ed6cf31bb18bda30954d90085f6eaaf5817917fc5fecb3',1,'RTG.Circle()'],['../namespace_r_t_g.html#a904d0e74cb512a26410206146481f2a1a30954d90085f6eaaf5817917fc5fecb3',1,'RTG.Circle()'],['../namespace_r_t_g.html#a720ded28c7ef3e2a6f517111c39a56b0a30954d90085f6eaaf5817917fc5fecb3',1,'RTG.Circle()']]],
+  ['classic',['Classic',['../class_unity_engine_1_1_post_processing_1_1_vignette_model.html#a98eb04307bcb3c902a1189d324a2f53dad35b51b639528d580362ca7042de6a0e',1,'UnityEngine::PostProcessing::VignetteModel']]],
   ['completefadein',['CompleteFadeIn',['../class_r_t_g_1_1_color_transition.html#a44ba48bda899f9142720a4c0e3d1a532add4b3df31b5b64bbc76e344290073b61',1,'RTG::ColorTransition']]],
   ['completefadeout',['CompleteFadeOut',['../class_r_t_g_1_1_color_transition.html#a44ba48bda899f9142720a4c0e3d1a532af596ca800ac179181d6730d873588a39',1,'RTG::ColorTransition']]],
   ['cone',['Cone',['../namespace_r_t_g.html#ab50c427f179d0054e67878b45543ebebacd2c8bc6e5f1ea17c918ccaf89660104',1,'RTG']]],

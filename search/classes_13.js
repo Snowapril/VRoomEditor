@@ -1,7 +1,10 @@
 var searchData=
 [
-  ['webservercomponent',['WebServerComponent',['../class_unity_g_l_t_f_1_1_examples_1_1_web_server_component.html',1,'UnityGLTF::Examples']]],
-  ['wirerenderdescriptor',['WireRenderDescriptor',['../class_r_t_g_1_1_quad_shape3_d_1_1_wire_render_descriptor.html',1,'RTG.QuadShape3D.WireRenderDescriptor'],['../class_r_t_g_1_1_sphere_shape3_d_1_1_wire_render_descriptor.html',1,'RTG.SphereShape3D.WireRenderDescriptor'],['../class_r_t_g_1_1_cone_shape3_d_1_1_wire_render_descriptor.html',1,'RTG.ConeShape3D.WireRenderDescriptor'],['../class_r_t_g_1_1_torus_shape3_d_1_1_wire_render_descriptor.html',1,'RTG.TorusShape3D.WireRenderDescriptor'],['../class_r_t_g_1_1_arc_shape3_d_1_1_wire_render_descriptor.html',1,'RTG.ArcShape3D.WireRenderDescriptor'],['../class_r_t_g_1_1_box_shape3_d_1_1_wire_render_descriptor.html',1,'RTG.BoxShape3D.WireRenderDescriptor']]],
-  ['workdata',['WorkData',['../struct_r_t_g_1_1_gizmo_sgl_axis_rotation_drag3_d_1_1_work_data.html',1,'RTG.GizmoSglAxisRotationDrag3D.WorkData'],['../struct_r_t_g_1_1_gizmo_dbl_axis_rotation_drag3_d_1_1_work_data.html',1,'RTG.GizmoDblAxisRotationDrag3D.WorkData'],['../struct_r_t_g_1_1_gizmo_sgl_axis_offset_drag3_d_1_1_work_data.html',1,'RTG.GizmoSglAxisOffsetDrag3D.WorkData'],['../struct_r_t_g_1_1_gizmo_sgl_axis_scale_drag3_d_1_1_work_data.html',1,'RTG.GizmoSglAxisScaleDrag3D.WorkData'],['../struct_r_t_g_1_1_gizmo_dbl_axis_offset_drag3_d_1_1_work_data.html',1,'RTG.GizmoDblAxisOffsetDrag3D.WorkData'],['../struct_r_t_g_1_1_gizmo_dbl_axis_scale_drag3_d_1_1_work_data.html',1,'RTG.GizmoDblAxisScaleDrag3D.WorkData'],['../struct_r_t_g_1_1_gizmo_uniform_scale_drag3_d_1_1_work_data.html',1,'RTG.GizmoUniformScaleDrag3D.WorkData']]],
-  ['worldtransformsnapshot',['WorldTransformSnapshot',['../class_r_t_g_1_1_world_transform_snapshot.html',1,'RTG']]]
+  ['vec3samples',['Vec3Samples',['../class_r_t_g_1_1_vec3_samples.html',1,'RTG']]],
+  ['vector3ref',['Vector3Ref',['../class_r_t_g_1_1_vector3_ref.html',1,'RTG']]],
+  ['vectorscopemonitor',['VectorscopeMonitor',['../class_unity_editor_1_1_post_processing_1_1_vectorscope_monitor.html',1,'UnityEditor::PostProcessing']]],
+  ['vignettecomponent',['VignetteComponent',['../class_unity_engine_1_1_post_processing_1_1_vignette_component.html',1,'UnityEngine::PostProcessing']]],
+  ['vignettemodel',['VignetteModel',['../class_unity_engine_1_1_post_processing_1_1_vignette_model.html',1,'UnityEngine::PostProcessing']]],
+  ['vignettemodeleditor',['VignetteModelEditor',['../class_unity_editor_1_1_post_processing_1_1_vignette_model_editor.html',1,'UnityEditor::PostProcessing']]],
+  ['visualizemeshattributes',['VisualizeMeshAttributes',['../class_unity_g_l_t_f_1_1_examples_1_1_visualize_mesh_attributes.html',1,'UnityGLTF::Examples']]]
 ];

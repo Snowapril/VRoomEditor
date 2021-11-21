@@ -1,5 +1,8 @@
 var searchData=
 [
-  ['name',['Name',['../class_unity_g_l_t_f_1_1_sample_model.html#a99197654a3a10063087526ef3a380bff',1,'UnityGLTF.SampleModel.Name()'],['../class_prefab_details.html#ae169d74ae657d771bc32be09c3aae839',1,'PrefabDetails.Name()']]],
-  ['novolumesize',['NoVolumeSize',['../struct_r_t_g_1_1_object_bounds_1_1_query_config.html#ae34eddb3f0a5484b59a4b8cd1acd6462',1,'RTG::ObjectBounds::QueryConfig']]]
+  ['kernelsize',['kernelSize',['../struct_unity_engine_1_1_post_processing_1_1_depth_of_field_model_1_1_settings.html#a24cf78bbe8ab7b8bb2e231da4e4791d5',1,'UnityEngine::PostProcessing::DepthOfFieldModel::Settings']]],
+  ['keyframe',['keyframe',['../struct_unity_editor_1_1_post_processing_1_1_curve_editor_1_1_selection.html#a15a30ec45b9899c209e56e18b6f19a1f',1,'UnityEditor::PostProcessing::CurveEditor::Selection']]],
+  ['keyframeindex',['keyframeIndex',['../struct_unity_editor_1_1_post_processing_1_1_curve_editor_1_1_selection.html#aa592863c4ef55aa09ca57ac7b5b9fbe5',1,'UnityEditor::PostProcessing::CurveEditor::Selection']]],
+  ['keytimeclampingdistance',['keyTimeClampingDistance',['../struct_unity_editor_1_1_post_processing_1_1_curve_editor_1_1_settings.html#ab4c48700684d8b5dc374b7a03b26f44a',1,'UnityEditor::PostProcessing::CurveEditor::Settings']]],
+  ['keyvalue',['keyValue',['../struct_unity_engine_1_1_post_processing_1_1_eye_adaptation_model_1_1_settings.html#a839a21d11c4bdc81b2895307f3aafbc0',1,'UnityEngine::PostProcessing::EyeAdaptationModel::Settings']]]
 ];

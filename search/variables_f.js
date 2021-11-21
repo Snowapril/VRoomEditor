@@ -1,9 +1,8 @@
 var searchData=
 [
-  ['ratriangle',['RATriangle',['../class_r_t_g_1_1_gizmo_plane_slider3_d_controller_data.html#a65184883ddd513468c73d60b3ddfef36',1,'RTG::GizmoPlaneSlider3DControllerData']]],
-  ['ratriangleborder',['RATriangleBorder',['../class_r_t_g_1_1_gizmo_plane_slider3_d_controller_data.html#ad910fa1b792b593522ebd663945e4fc2',1,'RTG::GizmoPlaneSlider3DControllerData']]],
-  ['ratriangleindex',['RATriangleIndex',['../class_r_t_g_1_1_gizmo_plane_slider3_d_controller_data.html#a77a0e1d11e99e694a5727a64b9726ea0',1,'RTG::GizmoPlaneSlider3DControllerData']]],
-  ['rightbox',['RightBox',['../class_r_t_g_1_1_gizmo_quad3_d_border_controller_data.html#a9240930d060b19e9c323afa3818ff497',1,'RTG::GizmoQuad3DBorderControllerData']]],
-  ['rightboxindex',['RightBoxIndex',['../class_r_t_g_1_1_gizmo_quad3_d_border_controller_data.html#a2d795d1b8ef1e6ff8e986e997f2ba888',1,'RTG::GizmoQuad3DBorderControllerData']]],
-  ['rotationplanepos',['RotationPlanePos',['../struct_r_t_g_1_1_gizmo_sgl_axis_rotation_drag3_d_1_1_work_data.html#aa48ab82b01a77e9595449785b2383b01',1,'RTG::GizmoSglAxisRotationDrag3D::WorkData']]]
+  ['objecttypes',['ObjectTypes',['../struct_r_t_g_1_1_object_bounds_1_1_query_config.html#a1604c5b859942a97bc961aac8728dd9c',1,'RTG::ObjectBounds::QueryConfig']]],
+  ['offset',['offset',['../struct_unity_engine_1_1_post_processing_1_1_color_grading_model_1_1_log_wheels_settings.html#ad89a46fb9a7ad450ecd2687fcde2b02c',1,'UnityEngine::PostProcessing::ColorGradingModel::LogWheelsSettings']]],
+  ['offsetfromsurface',['OffsetFromSurface',['../struct_r_t_g_1_1_object_surface_snap_1_1_snap_config.html#a4a09a62c011bb537498f4e2a8fee5a5b',1,'RTG::ObjectSurfaceSnap::SnapConfig']]],
+  ['onlyshowhandlesonselection',['onlyShowHandlesOnSelection',['../struct_unity_editor_1_1_post_processing_1_1_curve_editor_1_1_curve_state.html#ab2ec9070b560ab71548f0c78e34a7c5f',1,'UnityEditor::PostProcessing::CurveEditor::CurveState']]],
+  ['opacity',['opacity',['../struct_unity_engine_1_1_post_processing_1_1_vignette_model_1_1_settings.html#a12f126ffbe9e86dce6a11d5f8313ace6',1,'UnityEngine::PostProcessing::VignetteModel::Settings']]]
 ];

@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['objectrotationpivot',['ObjectRotationPivot',['../namespace_r_t_g.html#afcba0884bf47d5aeb9f118bedd9ed21f',1,'RTG']]]
+  ['kernelsize',['KernelSize',['../class_unity_engine_1_1_post_processing_1_1_depth_of_field_model.html#a8b92e9c86b4ffe225306853f8bfd4015',1,'UnityEngine::PostProcessing::DepthOfFieldModel']]]
 ];
